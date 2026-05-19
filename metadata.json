@@ -1,0 +1,6 @@
+{
+  "name": "Qavero - AI SaaS MVP Agency",
+  "description": "Premium AI-powered SaaS MVP development agency for startup founders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -77,7 +77,7 @@ Building the next generation of AI SaaS products with speed, scalability, and mo
 
 Interested in building an AI SaaS product?
 
-📧 hello@qavero.ai
+📧 qavero.ai@gmail.com
 
 ---
 
